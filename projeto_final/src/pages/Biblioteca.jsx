@@ -52,9 +52,9 @@ const Ordem = () => {
             <div>
                 <br />
                 <h1 className='titulo'>Sua Biblioteca</h1>
-                <h2>
+                <p>
                     Lista de Interesse
-                </h2>
+                </p>
                 <ul>
                     {Desejadoss.map((desejados) => (
                         <li key={desejados.id}>
@@ -68,9 +68,9 @@ const Ordem = () => {
                         </li>
                     ))}
                 </ul>
-                <h2>
+                <p>
                     Já lidos
-                </h2>
+                </p>
                 <ul>
                     {Lidoss.map((lidos) => (
                         <li key={lidos.id}>
