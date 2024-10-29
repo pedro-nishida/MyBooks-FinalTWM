@@ -1,0 +1,19 @@
+
+.hero-section {
+    background-color: #f8f9fa; /* Cor de fundo para a seção de boas-vindas */
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .info-section {
+    padding: 20px 0; /* Espaçamento para a seção de informações */
+  }
+  
+  .info-section h2 {
+    color: #343a40; /* Cor dos títulos */
+  }
+  
+  .info-section p {
+    color: #6c757d; /* Cor do texto */
+  }
+  
